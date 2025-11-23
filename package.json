@@ -1,0 +1,19 @@
+{
+  "name": "applereminderapi-ecs",
+  "version": "1.0.0",
+  "description": "Backend deployment with AWS ECS",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch --env-file=.env src/index.js"
+  },
+  "author": "Shivang Rawat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.11",
+    "pg": "^8.16.3",
+    "zod": "^4.1.12"
+  }
+}
