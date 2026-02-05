@@ -321,4 +321,5 @@ Deploy Docker to ECS ❌ Doesn’t ✔ Works
 Terraform / CloudFormation ❌ Doesn’t ✔ Works
 Automation scripts ❌ Doesn’t ✔ Works
 #   A p p l e R e m i n d e r s E C S P r o j e c y P o s t g r e s  
+ #   E C S P r o j e c t  
  
