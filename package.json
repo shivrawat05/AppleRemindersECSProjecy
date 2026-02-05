@@ -1,5 +1,5 @@
 {
-  "name": "applereminderapi-ecs",
+  "name": "ECSProject",
   "version": "1.0.0",
   "description": "Backend deployment with AWS ECS",
   "main": "src/index.js",
